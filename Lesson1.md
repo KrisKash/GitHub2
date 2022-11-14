@@ -20,6 +20,7 @@
 
 8. git checkout master
 
-## *Git config --global user.name*  
+## *Git config --global user.name и git config --global user.email*
 
-Функция установки имени пользователя
+Функции установки Вашего имени и электронной почты
+
